@@ -1,0 +1,26 @@
+{
+    "terminal.integrated.cwd": "C:\\Users\\Rudi\\Documents\\GitHub\\my_project",
+    "terminal.integrated.env.windows": {
+    "Ubuntu-20.04 (WSL)": null
+    },
+    "terminal.integrated.profiles.windows": {
+
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        }
+    },
+    "terminal.integrated.shellIntegration.history": 100,
+    "prettier.configPath": "C:\\Users\\Rudi\\.vscode\\extensions\\esbenp.prettier-vscode-9.5.0"
+}
