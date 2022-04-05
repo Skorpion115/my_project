@@ -15,23 +15,23 @@
     ],
     "resourceSizes": [{
             "resourceType": "document",
-            "budget": 4.1
+            "budget": 6.0
         },
         {
             "resourceType": "script",
-            "budget": 483
+            "budget": 255.8
         },
         {
             "resourceType": "total",
-            "budget": 611.7
+            "budget": 490.6
         },
         {
             "resourceType": "stylesheet",
-            "budget": 2.9
+            "budget": 3.5
         },
         {
             "resourceType": "third-party",
-            "budget": 378
+            "budget": 165.8
         }
     ],
     "resourceCounts": [{

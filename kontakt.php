@@ -8,7 +8,7 @@
   <link rel='preload' href='js/jquery-3.6.0.min.js' as='script' />
   <link rel='stylesheet' href='css/style.css' />
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-66Z7DSTCPC" crossorigin="use-credentials"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-66Z7DSTCPC"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
 
@@ -342,12 +342,13 @@ Eltern : $eltern
           <label for="plz">Postleitzahl: </label>
           <input type="text" name="plz" id="plz">
         </fieldset>
+        <fieldset>
         <br />
         <label for="eltern">Eltern (optional): </label>
         <input type="text" name="eltern" id="eltern">
 
         <input type="submit" value="Absenden">
-        <fieldset>
+        </fieldset>
       </form>
       <br />
 

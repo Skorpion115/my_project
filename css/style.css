@@ -532,7 +532,7 @@ input[type=submit]:hover {
     width: 30%;
     border-collapse: collapse;
     text-align: center;
-    background: linear-gradient(#ffe8d4, #d7d9f2);
+    background: #ffe8d4;
     box-shadow: 2px 2px 5px #666666;
     margin: 0 auto;
 }
