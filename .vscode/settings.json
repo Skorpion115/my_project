@@ -1,5 +1,8 @@
 {
     "terminal.integrated.cwd": "C:\\Users\\Rudi\\Documents\\GitHub\\my_project",
+    "terminal.integrated.env.windows": {
+    "Ubuntu-20.04 (WSL)": null
+    },
     "terminal.integrated.profiles.windows": {
 
         "PowerShell": {
