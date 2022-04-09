@@ -22,5 +22,6 @@
         }
     },
     "terminal.integrated.shellIntegration.history": 100,
-    "prettier.configPath": "C:\\Users\\Rudi\\.vscode\\extensions\\esbenp.prettier-vscode-9.5.0"
+    "prettier.configPath": "C:\\Users\\Rudi\\.vscode\\extensions\\esbenp.prettier-vscode-9.5.0",
+    "editor.maxTokenizationLineLength": 5000
 }
