@@ -1,4 +1,5 @@
 @charset "UTF-8";
+
 @font-face {
     font-family: "OpenSans_Condensed-Regular";
     font-family: "NotoSans-Regular";
@@ -494,7 +495,8 @@ textarea {
     /* Add a top margin */
     margin-bottom: 16px;
     /* Bottom margin */
-    resize: vertical/* Allow the user to vertically resize the textarea (not horizontally) */
+    resize: vertical
+        /* Allow the user to vertically resize the textarea (not horizontally) */
 }
 
 
@@ -799,6 +801,7 @@ footer p {
         width: 100%;
         display: block;
     }
+
     video.responsive-video {
         max-width: 300px;
         height: auto;
@@ -813,7 +816,9 @@ footer p {
         width: 100%;
         display: block;
     }
+
     @media screen and (max-width: 600px) {
+
         #main aside,
         #main article {
             width: 100%;
@@ -839,13 +844,16 @@ footer p {
     body {
         font-size: 86%;
     }
+
     .hamburger {
         display: block;
     }
+
     nav {
         display: none;
         height: auto;
     }
+
     nav ul li {
         display: block;
         margin: 0.9rem 0rem 0.9rem 0rem;
@@ -859,11 +867,13 @@ footer p {
     body {
         line-height: 1.2;
     }
+
     #Download table {
         width: 30%;
         background: linear-gradient(#ffe3a6, #ffb44b);
         box-shadow: 2px 2px 5px #666666;
     }
+
     #Download table,
     th,
     td {
@@ -872,22 +882,26 @@ footer p {
         text-align: center;
         margin: auto;
     }
+
     #honorar table {
         width: 30%;
         text-align: center;
         border-collapse: collapse;
         box-shadow: 2px 2px 5px #666666;
     }
+
     #honorar article table,
     th,
     td {
         font-size: 1.125rem;
         text-align: center;
     }
+
     #honorar article table th {
         font-weight: bold;
         empty-cells: show;
     }
+
     #honorar article table td {
         font-weight: normal;
     }
@@ -900,13 +914,16 @@ footer p {
     body {
         font-size: 84%;
     }
+
     .hamburger {
         display: block;
     }
+
     nav {
         display: none;
         height: auto;
     }
+
     nav ul li {
         display: block;
         margin: 0rem 0rem 0rem 0rem;
@@ -920,13 +937,16 @@ footer p {
     body {
         font-size: 84%;
     }
+
     .hamburger {
         display: block;
     }
+
     nav {
         display: none;
         height: auto;
     }
+
     nav ul li {
         display: block;
         margin: 0rem 0rem 0rem 0rem;
@@ -940,13 +960,16 @@ footer p {
     body {
         font-size: 84%;
     }
+
     .cross {
         display: block;
     }
+
     nav {
         display: none;
         height: auto;
     }
+
     nav ul li {
         display: block;
         margin: 0rem 0rem 0rem 0rem;
@@ -960,13 +983,16 @@ footer p {
     body {
         font-size: 72%;
     }
+
     .hamburger {
         display: block;
     }
+
     nav {
         display: none;
         height: auto;
     }
+
     nav ul li {
         display: block;
         margin: 0rem 0rem 0rem 0rem;
