@@ -5,8 +5,8 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "programm": "${workspaceRoot}\\app.js",
-      "cwd": "${workspaceRoot}"
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\app.js"
     }
   ]
 }
