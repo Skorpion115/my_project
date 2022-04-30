@@ -6,7 +6,9 @@
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\app.js"
+      "program": "${workspaceFolder}\\myExpressApp\\app.js",
+      "cwd": "${workspaceFolder}",
+      "args": ["$env:Rudi"]
     }
   ]
 }
