@@ -369,19 +369,19 @@ Eltern : $eltern
             <td>14:00</td>
             <td>15:00</td>
             <td>15:30</td>
-            <td>15:00</td>
+            <td>15:15</td>
           </tr>
           <tr>
-            <td>16:15</td>
+            <td>15:30</td>
             <td>15:30</td>
             <td>16:00</td>
-            <td>18:00</td>
+            <td>16:30</td>
           </tr>
           <tr>
-            <td>16.45</td>
+            <td>16.00</td>
             <td>16:00</td>
             <td>16:30</td>
-            <td>18:30</td>
+            <td>17:00</td>
           </tr>
         </tbody>
       </table>
