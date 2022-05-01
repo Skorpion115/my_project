@@ -6,7 +6,7 @@
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\main.js",
+      "program": "${workspaceFolder}\\app.js",
       "cwd": "${workspaceFolder}",
       "args": ["$env:Rudi"]
     }
