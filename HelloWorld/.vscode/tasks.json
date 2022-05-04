@@ -9,15 +9,6 @@
 			],
 			"group": "build",
 			"label": "tsc: Erstellen – ../../../../../../../C:/Users/Rudi/Documents/GitHub/my_project/HelloWorld/tsconfig.json"
-		},
-		{
-			"type": "typescript",
-			"tsconfig": "tsconfig.json",
-			"problemMatcher": [
-				"$tsc"
-			],
-			"group": "build",
-			"label": "tsc: Erstellen – tsconfig.json"
 		}
 	]
 }
