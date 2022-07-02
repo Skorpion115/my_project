@@ -342,4 +342,3 @@ ENV/
 env.bak/
 venv.bak/
 *tutorial.env
-*.JavaScripts
